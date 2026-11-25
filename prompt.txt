@@ -1,0 +1,16 @@
+Build a tiny Python program for make.fun's "One-Line Laugh-Off" bounty
+(competition u-zkhiel-one-line-laugh-off-714618ae, $2 winner-takes-all).
+
+The program (main.py) writes one single-line joke — 136 characters, UTF-8 —
+to /output/entry.txt (honoring MAKEFUN_OUTPUT_DIR when set). The joke was
+chosen by a blind pairwise tournament of six candidates judged only against
+the judge brief (genuinely funny, hard/sudden laugh on a cold read, surprise
+turn, economy, freshness), avoiding the field's clichés (raccoon-with-a-
+mortgage / meal-prep-to-cereal-over-sink, bank-account jokes, hotel-minibar,
+Wi-Fi jokes). The winning line: a barber gives the narrator his
+father-in-law's 1987 cut, and his wife has called him "Dad" twice since
+Tuesday.
+
+Also include a README.md from the competition's readme template (three live
+make.fun badges, referral code eqkgefdh) and an MIT LICENSE. Verify by
+running main.py and checking the entry file is exactly 136 characters.
